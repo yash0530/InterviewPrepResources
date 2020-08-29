@@ -33,6 +33,7 @@
 ## Operating Systems
 * [Commonly Asked Questions 1 (GFG)](https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questions-set-1/)
 * [Sanchit Jain Complete Playlist (YT)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
+* [Quiz (GFG)](https://www.geeksforgeeks.org/quiz-corner-gq/#Operating%20Systems%20Mock%20Tests)
 
 ## System Design
 * Usually not asked during Internship Interviews
