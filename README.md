@@ -7,6 +7,14 @@
 * https://leetcode.com/problemset/all/
 
 ## Programming Language
+#### C++
+* https://www.geeksforgeeks.org/commonly-asked-c-interview-questions-set-1/
+* https://www.geeksforgeeks.org/commonly-asked-c-interview-questions-set-2/
+#### OOPs
+* https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/
+#### Java
+* https://www.geeksforgeeks.org/commonly-asked-java-programming-interview-questions-set-2
+* https://www.geeksforgeeks.org/commonly-asked-java-programming-interview-questions-set-1/
 
 ## Database Management Systems
 
