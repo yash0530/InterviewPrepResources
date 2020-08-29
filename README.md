@@ -28,13 +28,26 @@
 * [Commonly Asked Questions 2 (GFG)](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions-set-2/)
 * [SQL Problems (Leetcode)](https://leetcode.com/problemset/database/)
 * [How to draw ER Diagram (YT)](https://www.youtube.com/watch?v=F_xDqBa5w-s)
+* [Sanchit Jain Complete Playlist (YT)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
 
 ## Operating Systems
 * [Commonly Asked Questions 1 (GFG)](https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questions-set-1/)
-* 
+* [Sanchit Jain Complete Playlist (YT)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
 
 ## System Design
-* Usually not asked for Internship Interviews
+* Usually not asked during Internship Interviews
+* [Gaurav Sen Complete Playlist (YT)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* Online courses like SystemsExpert and Grokking System Design are good
 
 ## Competitive Programming
-* Required for companies like Codenation, Media.net, Google
+* Required for companies like Codenation, Media.net, Google, Tower research
+* [Codeforces](https://codeforces.com/)
+* [AtCoder](https://atcoder.jp/)
+* [Codechef](http://codechef.com/)
+* [SecondThread (YT)](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g)
+* [Errichto (YT)](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Gaurav Sen (YT)](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [William Lin (YT)](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+* [Codechef (YT)](https://www.youtube.com/user/codechefofficial)
+* [SPOJ](https://www.spoj.com/)
+* [CSES Problem Set](https://cses.fi/problemset/)
